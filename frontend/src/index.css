@@ -1,0 +1,40 @@
+@import "tailwindcss";
+@import "@fontsource/source-sans-3/latin-400.css";
+@import "@fontsource/source-sans-3/latin-600.css";
+@import "@fontsource/source-sans-3/latin-ext-400.css";
+@import "@fontsource/source-sans-3/latin-ext-600.css";
+@import "@fontsource/source-serif-4/latin-600.css";
+@import "@fontsource/source-serif-4/latin-ext-600.css";
+
+@theme {
+  --font-sans: "Source Sans 3", "Segoe UI", sans-serif;
+  --font-serif: "Source Serif 4", Georgia, serif;
+  --color-paper: #f4f0e6;
+  --color-ink: #1c1915;
+  --color-forest: #1f4d3a;
+  --color-moss: #3d6b52;
+  --color-line: #d9d1c3;
+  --color-card: #fffdf8;
+  --color-sand: #c4a574;
+  --color-alert: #8c3a2f;
+}
+
+html {
+  color: var(--color-ink);
+  background: var(--color-paper);
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-sans);
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-forest);
+  outline-offset: 2px;
+}
+
+.table-wrap {
+  overflow-x: auto;
+}

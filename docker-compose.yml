@@ -1,0 +1,98 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: kommunal_audit
+      POSTGRES_USER: kommunal
+      POSTGRES_PASSWORD: kommunal
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U kommunal -d kommunal_audit"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  redis:
+    image: redis:7
+    ports:
+      - "6379:6379"
+
+  analysis:
+    build: ./services/analysis
+    environment:
+      ANALYSIS_INTERNAL_TOKEN: ${ANALYSIS_INTERNAL_TOKEN:-dev-internal-token-change-me}
+      ANALYSIS_STORAGE_ROOT: /data/documents
+    volumes:
+      - documents:/data/documents
+
+  backend:
+    build: ./backend
+    environment: &laravel
+      APP_NAME: "KommunalAudit AI"
+      APP_ENV: local
+      APP_DEBUG: "true"
+      APP_KEY: ${APP_KEY:?APP_KEY fehlt}
+      APP_URL: http://localhost:8000
+      DB_CONNECTION: pgsql
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_DATABASE: kommunal_audit
+      DB_USERNAME: kommunal
+      DB_PASSWORD: kommunal
+      QUEUE_CONNECTION: redis
+      CACHE_STORE: redis
+      REDIS_HOST: redis
+      ANALYSIS_URL: http://analysis:8001
+      ANALYSIS_INTERNAL_TOKEN: ${ANALYSIS_INTERNAL_TOKEN:-dev-internal-token-change-me}
+      ADMIN_EMAIL: ${ADMIN_EMAIL:-admin@kommunalaudit.local}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-change-me-admin}
+      KOMMUNAL_MAX_DOCUMENTS: ${KOMMUNAL_MAX_DOCUMENTS:-2}
+      DOCUMENT_DISK: local
+      RUN_MIGRATIONS: "1"
+    volumes:
+      - documents:/var/www/storage/app/documents
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      analysis:
+        condition: service_started
+
+  queue:
+    build: ./backend
+    environment:
+      <<: *laravel
+      RUN_MIGRATIONS: "0"
+    volumes:
+      - documents:/var/www/storage/app/documents
+    depends_on:
+      backend:
+        condition: service_started
+    command: ["php", "artisan", "queue:work", "--sleep=1", "--tries=1", "--timeout=3600"]
+
+  scheduler:
+    build: ./backend
+    environment:
+      <<: *laravel
+      RUN_MIGRATIONS: "0"
+    volumes:
+      - documents:/var/www/storage/app/documents
+    depends_on:
+      backend:
+        condition: service_started
+    command: ["php", "artisan", "schedule:work"]
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+
+volumes:
+  pgdata:
+  documents:

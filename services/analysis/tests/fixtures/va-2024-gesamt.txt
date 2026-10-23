@@ -1,0 +1,628 @@
+# Excerpt produced by pdftotext -layout from the public document
+# Voranschlag 2024, Marktgemeinde Aigen-Schlägl
+# Source: https://www.aigen-schlaegl.at/system/web/getDocument.ashx?cts=1740829843&fileid=3590587
+# SHA256: 5d2d1a84e2d49a0ccb48023b8d4429171b4c598b2bdc35dce4f9b66b054cd501
+# Captured: 2026-10-23. Slice: Nachweis and Gesamtanlage 1a/1b only.
+Nachweis über das nachhaltige Haushaltsgleichgewicht
+
+
+Voranschlag 2024                                                                          Nachweis über das nachhaltige Haushaltsgleichgewicht
+Marktgemeinde Aigen-Schlägl
+
+
+                                                                VA 2024            Plan 2025         Plan 2026          Plan 2027          Plan 2028
+Position                                                    Summe/Saldo         Summe/Saldo       Summe/Saldo        Summe/Saldo        Summe/Saldo
+
+Ergebnis der laufenden Geschäftstätigkeit                       -71.800,00        -427.000,00       -569.000,00        -786.700,00       -1.042.900,00
+
+Finanzierungshaushalt
+SA5 Geldfluss aus der voranschlagswirksamen Gebarung           -757.300,00        -754.100,00       -679.000,00        -788.700,00       -1.044.900,00
+
+Ergebnishaushalt
+Saldo 0 (Nettoergebnis 21 - 22)                                -151.300,00        -412.200,00       -572.400,00        -789.800,00       -1.075.200,00
+
+
+
+
+                                                                RA 2020             RA 2021           RA 2022     Voranschlag 2022   Voranschlag 2023
+Position                                                    Summe/Saldo         Summe/Saldo       Summe/Saldo        Summe/Saldo        Summe/Saldo
+
+Ergebnis der laufenden Geschäftstätigkeit                                0,00       -5.808,00       157.743,41         -110.000,00               0,00
+
+Finanzierungshaushalt
+SA5 Geldfluss aus der voranschlagswirksamen Gebarung            162.112,29        101.930,23        237.455,49         -134.400,00        -109.100,00
+SA7 Veränderung an liquiden Mitteln (Saldo 5 + Saldo 6)         201.590,48        137.884,73        188.561,56
+Endbestand an liquiden Mitteln (MVAG 115 zum 31.12.)            247.131,89        386.273,36        574.834,92
+davon Zahlungsmittelreserven (MVAG 1152 zum 31.12.)                      0,00            0,00              0,00
+
+Ergebnishaushalt
+Saldo 0 (Nettoergebnis 21 - 22)                                      6.168,99     326.442,72        112.657,23         -143.900,00         124.100,00
+
+Vermögenshaushalt
+C   Nettovermögen (Ausgleichsposten)                         15.138.335,31      15.251.058,06     18.204.931,62
+
+
+
+
+Erstellt am 11.01.2024 08:39:05 von Walter Fischer        Seite 48
+
+Erstellt am 11.01.2024 08:39:05 von Walter Fischer   Seite 49
+
+Ergebnishaushalt Gesamt 1. und 2. Ebene (Anlage 1a)
+                  - bereinigt um interne Vergütungen
+
+
+Voranschlag 2024                                                                                Ergebnishaushalt Gesamt 1. und 2. Ebene (Anlage 1a) - bereinigt um interne Vergütungen
+Marktgemeinde Aigen-Schlägl
+
+
+
+MVAG         Mittelverwendungs- und aufbringungsgruppen (1. und 2. Ebene)                                                                        VA 2024        VA 2023        RA 2022
+211          Erträge aus der operativen Verwaltungstätigkeit                                                                                 7.204.300,00   6.852.100,00   7.009.422,29
+2111         Erträge aus eigenen Abgaben                                                                                                     1.517.100,00   1.537.500,00   1.569.782,30
+2112         Erträge aus Ertragsanteilen                                                                                                     3.512.000,00   3.415.800,00   3.539.053,04
+2113         Erträge aus Gebühren                                                                                                            1.508.400,00   1.177.000,00   1.158.447,65
+2114         Erträge aus Leistungen                                                                                                            399.100,00     347.500,00     329.316,14
+2115         Erträge aus Besitz und wirtschaftlicher Tätigkeit                                                                                  56.300,00      51.200,00      49.472,19
+2116         Erträge aus Veräußerung und sonstige Erträge                                                                                      186.700,00     308.000,00     243.468,86
+2117         Nicht finanzierungswirksame operative Erträge                                                                                      24.700,00      15.100,00     119.882,11
+
+212          Erträge aus Transfers                                                                                                           1.924.000,00   1.815.600,00   1.646.660,06
+2121         Transferertrag von Trägern des öffentlichen Rechts                                                                              1.194.000,00   1.096.300,00     919.307,86
+2122         Transferertrag von Beteiligungen                                                                                                        0,00           0,00           0,00
+2123         Transferertrag von Unternehmen (mit Finanzunternehmen)                                                                                  0,00           0,00           0,00
+2124         Transferertrag von Haushalten und Organisationen ohne Erwerbscharakter                                                             24.400,00      13.700,00      10.697,33
+2125         Transferertrag vom Ausland                                                                                                              0,00           0,00           0,00
+2126         Investitions- und Tilgungszuschüsse zwischen Unternehmungen und Betrieben der Gebietskörperschaft und der Gebietskörperschaft           0,00           0,00           0,00
+2127         Nicht finanzierungswirksamer Transferertrag                                                                                       705.600,00     705.600,00     716.654,87
+
+213          Finanzerträge                                                                                                                     81.300,00      90.500,00      63.677,90
+2131         Erträge aus Zinsen                                                                                                                   100,00         300,00          38,57
+2132         Erträge aus Zinsen aus derivativen Finanzinstrumenten mit und ohne Grundgeschäft                                                       0,00           0,00           0,00
+2133         Erträge aus Gewinnentnahmen von marktbestimmten Betrieben                                                                              0,00           0,00           0,00
+2134         Sonstige Finanzerträge                                                                                                                 0,00           0,00           0,00
+2135         Erträge aus Dividenden/Gewinnausschüttungen                                                                                       81.200,00      90.200,00      63.639,33
+2136         Sonstige nicht finanzierungswirksame Finanzerträge                                                                                     0,00           0,00           0,00
+
+21           Summe Erträge                                                                                                                   9.209.600,00   8.758.200,00   8.719.760,25
+
+221          Personalaufwand                                                                                                                 2.414.200,00   2.186.300,00   2.031.136,92
+2211         Personalaufwand (Bezüge, Nebengebühren, Mehrleistungen)                                                                         1.874.800,00   1.683.500,00   1.569.945,17
+2212         Gesetzlicher und freiwilliger Sozialaufwand                                                                                       509.800,00     430.700,00     402.672,16
+2213         Sonstiger Personalaufwand                                                                                                           2.800,00       2.900,00       2.619,91
+2214         Nicht finanzierungswirksamer Personalaufwand                                                                                       26.800,00      69.200,00      55.899,68
+
+222          Sachaufwand                                                                                                                     3.215.900,00   3.048.200,00   3.486.431,86
+2221         Gebrauchs- und Verbrauchsgüter, Handelswaren                                                                                      196.100,00     174.000,00     119.590,04
+2222         Verwaltungs- und Betriebsaufwand                                                                                                  462.300,00     435.500,00     356.111,19
+2223         Leasing- und Mietaufwand                                                                                                           55.500,00      53.300,00      39.064,72
+2224         Instandhaltung                                                                                                                    179.700,00     151.300,00     534.476,92
+2225         Sonstiger Sachaufwand                                                                                                           1.232.000,00   1.143.200,00   1.312.532,20
+2226         Nicht finanzierungswirksamer Sachaufwand                                                                                        1.090.300,00   1.090.900,00   1.124.656,79
+
+
+
+Erstellt am 11.01.2024 08:39:08 von Walter Fischer                                                  Seite 52
+
+Voranschlag 2024                                                                            Ergebnishaushalt Gesamt 1. und 2. Ebene (Anlage 1a) - bereinigt um interne Vergütungen
+Marktgemeinde Aigen-Schlägl
+
+
+
+MVAG         Mittelverwendungs- und aufbringungsgruppen (1. und 2. Ebene)                                                                        VA 2024        VA 2023        RA 2022
+223          Transferaufwand                                                                                                                 3.425.400,00   3.144.900,00   3.009.471,92
+2231         Transferaufwand an Träger des öffentlichen Rechts                                                                               3.191.400,00   2.877.500,00   2.734.939,09
+2232         Transferaufwand an Beteiligungen                                                                                                        0,00           0,00           0,00
+2233         Transferaufwand an Unternehmen (mit Finanzunternehmen)                                                                             24.000,00      48.800,00      43.290,06
+2234         Transferaufwand an Haushalte und Organisationen ohne Erwerbscharakter                                                             210.000,00     218.600,00     231.242,77
+2235         Transferaufwand an das Ausland                                                                                                          0,00           0,00           0,00
+2236         Investitions- und Tilgungszuschüsse zwischen Unternehmungen und Betrieben der Gebietskörperschaft und der Gebietskörperschaft           0,00           0,00           0,00
+2237         Nicht finanzierungswirksamer Transferaufwand                                                                                            0,00           0,00           0,00
+
+224          Finanzaufwand                                                                                                                    305.400,00     254.700,00      80.062,32
+2241         Aufwendungen für Zinsen                                                                                                          299.400,00     248.700,00      56.496,65
+2242         Zinsen und sonstige Aufwendungen aus derivativen Finanzinstrumenten mit und ohne Grundgeschäft                                         0,00           0,00           0,00
+2243         Gewinnentnahmen von Unternehmungen und marktbestimmten Betrieben der Gebietskörperschaft (innerhalb der Gebietskörperschaft)           0,00           0,00           0,00
+2244         Sonstiger Finanzaufwand                                                                                                            6.000,00       6.000,00       5.789,72
+2245         Nicht finanzierungswirksamer Finanzaufwand                                                                                             0,00           0,00      17.775,95
+
+22           Summe Aufwendungen                                                                                                              9.360.900,00   8.634.100,00   8.607.103,02
+
+SA0          Saldo (0) Nettoergebnis (21 - 22)                                                                                                -151.300,00    124.100,00     112.657,23
+
+230          Entnahmen von Haushaltsrücklagen                                                                                                 227.400,00      27.700,00      89.131,74
+2301         Entnahmen von Haushaltsrücklagen                                                                                                 227.400,00      27.700,00      89.131,74
+
+240          Zuweisungen an Haushaltsrücklagen                                                                                                136.400,00      33.200,00     157.743,41
+2401         Zuweisungen an Haushaltsrücklagen                                                                                                136.400,00      33.200,00     157.743,41
+
+SA01         Saldo (01) Haushaltsrücklagen (230 - 240)                                                                                         91.000,00       -5.500,00     -68.611,67
+
+SA00         Saldo (00) Nettoergebnis nach Haushaltsrücklagen (Saldo 0 + Saldo 01)                                                             -60.300,00    118.600,00      44.045,56
+
+
+
+
+Erstellt am 11.01.2024 08:39:08 von Walter Fischer                                                 Seite 53
+
+Finanzierungshaushalt Gesamt 1. und 2. Ebene (Anlage 1b)
+                       - bereinigt um interne Vergütungen
+
+
+Voranschlag 2024                                                                      Finanzierungshaushalt Gesamt 1. und 2. Ebene (Anlage 1b) - bereinigt um interne Vergütungen
+Marktgemeinde Aigen-Schlägl
+
+
+
+MVAG         Mittelverwendungs- und aufbringungsgruppen (1. und 2. Ebene)                                                                        VA 2024        VA 2023       RA 2022
+311          Einzahlungen aus operativer Verwaltungstätigkeit                                                                                7.179.600,00   6.761.200,00   6.904.057,37
+3111         Einzahlungen aus eigenen Abgaben                                                                                                1.517.100,00   1.537.500,00   1.618.226,29
+3112         Einzahlungen aus Ertragsanteilen                                                                                                3.512.000,00   3.415.800,00   3.539.053,04
+3113         Einzahlungen aus Gebühren                                                                                                       1.508.400,00   1.177.000,00   1.150.186,59
+3114         Einzahlungen aus Leistungen                                                                                                       399.100,00     347.500,00     344.282,09
+3115         Einzahlungen aus Besitz und wirtschaftlicher Tätigkeit                                                                             56.300,00      51.200,00      49.402,05
+3116         Einzahlungen aus Veräußerung von geringwertigen Wirtschaftsgütern (GWG) und sonstige Einzahlungen                                 186.700,00     232.200,00     202.907,31
+
+312          Einzahlungen aus Transfers                                                                                                      1.218.400,00   1.110.000,00    930.005,19
+3121         Transferzahlungen von Trägern des öffentlichen Rechts                                                                           1.194.000,00   1.096.300,00    919.307,86
+3122         Transferzahlungen von Beteiligungen                                                                                                     0,00           0,00          0,00
+3123         Transferzahlungen von Unternehmen (inkl. Finanzunternehmen)                                                                             0,00           0,00          0,00
+3124         Transferzahlungen von Haushalten und Organisationen ohne Erwerbscharakter                                                          24.400,00      13.700,00     10.697,33
+3125         Transferzahlungen vom Ausland                                                                                                           0,00           0,00          0,00
+3126         Investitions- und Tilgungszuschüsse zwischen Unternehmungen und Betrieben der Gebietskörperschaft und der Gebietskörperschaft           0,00           0,00          0,00
+
+313          Einzahlungen aus Finanzerträgen                                                                                                   81.300,00      90.500,00      63.677,90
+3131         Einzahlungen aus Zinserträgen                                                                                                        100,00         300,00          38,57
+3132         Einzahlungen aus Zinsen aus derivativen Finanzinstrumenten mit und ohne Grundgeschäft                                                  0,00           0,00           0,00
+3133         Einzahlungen aus Gewinnentnahmen von marktbestimmten Betrieben                                                                         0,00           0,00           0,00
+3134         Sonstige Einzahlungen aus Finanzerträgen                                                                                               0,00           0,00           0,00
+3135         Einzahlungen aus Dividenden/Gewinnausschüttungen                                                                                  81.200,00      90.200,00      63.639,33
+
+31           Summe Einzahlungen operative Gebarung                                                                                           8.479.300,00   7.961.700,00   7.897.740,46
+
+321          Auszahlungen aus Personalaufwand                                                                                                2.387.400,00   2.117.100,00   1.975.028,32
+3211         Auszahlungen für Personalaufwand (Bezüge, Nebengebühren, und Mehrleistungsvergütungen)                                          1.874.800,00   1.683.500,00   1.569.945,17
+3212         Auszahlungen für gesetzliche und freiwillige Sozialaufwendungen                                                                   509.800,00     430.700,00     402.463,24
+3213         Auszahlungen aus sonstigem Personalaufwand                                                                                          2.800,00       2.900,00       2.619,91
+
+322          Auszahlungen aus Sachaufwand                                                                                                    2.125.600,00   1.957.300,00   2.350.212,70
+3221         Auszahlungen für Gebrauchs- und Verbrauchsgüter, Handelswaren                                                                     196.100,00     174.000,00     119.590,04
+3222         Auszahlungen für Verwaltungs- und Betriebsaufwand                                                                                 462.300,00     435.500,00     356.289,16
+3223         Auszahlungen für Leasing- und Mietaufwand                                                                                          55.500,00      53.300,00      39.064,72
+3224         Auszahlungen für Instandhaltung                                                                                                   179.700,00     151.300,00     534.476,92
+3225         Sonstige Auszahlungen aus Sachaufwand                                                                                           1.232.000,00   1.143.200,00   1.300.791,86
+3226         Auszahlungen aus der Inanspruchnahme von Haftungen                                                                                      0,00           0,00           0,00
+
+323          Auszahlungen aus Transfers                                                                                                      3.424.400,00   3.142.900,00   3.003.629,92
+3231         Transferzahlungen an Träger des öffentlichen Rechts                                                                             3.190.400,00   2.875.500,00   2.734.939,09
+3232         Transferzahlungen an Beteiligungen                                                                                                      0,00           0,00           0,00
+
+
+
+Erstellt am 11.01.2024 08:39:11 von Walter Fischer                                                   Seite 56
+
+Voranschlag 2024                                                                      Finanzierungshaushalt Gesamt 1. und 2. Ebene (Anlage 1b) - bereinigt um interne Vergütungen
+Marktgemeinde Aigen-Schlägl
+
+
+
+MVAG         Mittelverwendungs- und aufbringungsgruppen (1. und 2. Ebene)                                                                        VA 2024        VA 2023       RA 2022
+3233         Transferzahlungen an Unternehmen (inkl. Finanzunternehmen)                                                                        24.000,00      48.800,00      43.290,06
+3234         Transferzahlungen an Haushalte und Organisationen ohne Erwerbscharakter                                                          210.000,00     218.600,00     225.400,77
+3235         Transferzahlungen an das Ausland                                                                                                       0,00           0,00           0,00
+3236         Investitions- und Tilgungszuschüsse zwischen Unternehmungen und Betrieben der Gebietskörperschaft und der Gebietskörperschaft          0,00           0,00           0,00
+
+324          Auszahlungen aus Finanzaufwand                                                                                                   305.400,00     254.700,00      62.286,37
+3241         Auszahlungen für Zinsen                                                                                                          299.400,00     248.700,00      56.496,65
+3242         Auszahlungen für Zinsen aus derivativen Finanzinstrumenten mit und ohne Grundgeschäft                                                  0,00           0,00           0,00
+3243         Auszahlungen aus Gewinnentnahmen von marktbestimmten Betrieben                                                                         0,00           0,00           0,00
+3244         Sonstige Auszahlungen aus Finanzaufwendungen                                                                                       6.000,00       6.000,00       5.789,72
+
+32           Summe Auszahlungen operative Gebarung                                                                                           8.242.800,00   7.472.000,00   7.391.157,31
+
+SA1          Saldo (1) Geldfluss aus der operativen Gebarung (31 – 32)                                                                        236.500,00     489.700,00     506.583,15
+
+331          Einzahlungen aus der Investitionstätigkeit                                                                                              0,00           0,00     39.901,00
+3311         Einzahlungen aus der Veräußerung von immateriellem Vermögen                                                                             0,00           0,00          0,00
+3312         Einzahlungen aus der Veräußerung von Grundstücken und Grundstückeinrichtungen                                                           0,00           0,00     39.901,00
+3313         Einzahlungen aus der Veräußerung von Gebäuden und Bauten                                                                                0,00           0,00          0,00
+3314         Einzahlungen aus der Veräußerung von technischen Anlagen, Fahrzeugen und Maschinen                                                      0,00           0,00          0,00
+3315         Einzahlungen aus der Veräußerung von Amts-, Betriebs- und Geschäftsausstattung                                                          0,00           0,00          0,00
+3316         Einzahlungen aus der Veräußerung von Kulturgütern                                                                                       0,00           0,00          0,00
+3317         Einzahlungen aus der Veräußerung von Beteiligungen                                                                                      0,00           0,00          0,00
+3318         Einzahlungen aus der Veräußerung von kofinanzierten Schutzbauten                                                                        0,00           0,00          0,00
+
+332          Einzahlungen aus der Rückzahlung von Darlehen sowie gewährten Vorschüssen                                                           1.600,00       1.600,00           0,00
+3321         Einzahlungen aus Darlehen an Träger des öffentlichen Rechts                                                                             0,00           0,00           0,00
+3322         Einzahlungen aus Darlehen an Beteiligungen                                                                                              0,00           0,00           0,00
+3323         Einzahlungen aus Darlehen an Unternehmen und Haushalte                                                                                  0,00           0,00           0,00
+3325         Einzahlungen aus Vorschüssen und Anzahlungen                                                                                        1.600,00       1.600,00           0,00
+
+333          Einzahlungen aus Kapitaltransfers                                                                                                789.400,00     396.900,00     674.823,85
+3331         Kapitaltransferzahlungen von Trägern des öffentlichen Rechts                                                                     640.800,00     307.000,00     378.783,33
+3332         Kapitaltransferzahlungen von Beteiligungen                                                                                             0,00           0,00           0,00
+3333         Kapitaltransferzahlungen von Unternehmen                                                                                               0,00           0,00           0,00
+3334         Kapitaltransferzahlungen von Haushalten und Organisationen ohne Erwerbscharakter                                                 148.600,00      89.900,00     296.040,52
+3335         Kapitaltransferzahlungen vom Ausland                                                                                                   0,00           0,00           0,00
+
+33           Summe Einzahlungen investive Gebarung                                                                                            791.000,00     398.500,00     714.724,85
+
+341          Auszahlungen aus der Investitionstätigkeit                                                                                      1.619.100,00    564.200,00     404.895,38
+3411         Auszahlungen für den Erwerb von immateriellem Vermögen                                                                                  0,00          0,00           0,00
+
+
+
+Erstellt am 11.01.2024 08:39:11 von Walter Fischer                                                   Seite 57
+
+Voranschlag 2024                                                                     Finanzierungshaushalt Gesamt 1. und 2. Ebene (Anlage 1b) - bereinigt um interne Vergütungen
+Marktgemeinde Aigen-Schlägl
+
+
+
+MVAG         Mittelverwendungs- und aufbringungsgruppen (1. und 2. Ebene)                                                              VA 2024          VA 2023         RA 2022
+3412         Auszahlungen für den Erwerb von Grundstücken und Grundstückseinrichtungen                                             1.084.600,00       307.200,00      281.378,99
+3413         Auszahlungen für den Erwerb von Gebäuden und Bauten                                                                     310.000,00             0,00       31.200,00
+3414         Auszahlungen für den Erwerb von technischen Anlagen, Fahrzeugen und Maschinen                                           198.600,00       192.000,00        8.962,62
+3415         Auszahlungen für den Erwerb von Amts-, Betriebs- und Geschäftsausstattung                                                25.900,00        65.000,00       83.353,77
+3416         Auszahlungen für den Erwerb von Kulturgütern                                                                                  0,00             0,00            0,00
+3417         Auszahlungen für den Erwerb von Beteiligungen                                                                                 0,00             0,00            0,00
+3418         Auszahlungen für den Erwerb von kofinanzierten Schutzbauten                                                                   0,00             0,00            0,00
+
+342          Auszahlungen aus der Gewährung von Darlehen sowie gewährten Vorschüssen                                                       0,00         6.200,00            0,00
+3421         Auszahlungen von Darlehen an Träger des öffentlichen Rechts                                                                   0,00             0,00            0,00
+3422         Auszahlungen von Darlehen an Beteiligungen                                                                                    0,00             0,00            0,00
+3423         Auszahlungen von Darlehen an Unternehmen und Haushalte                                                                        0,00             0,00            0,00
+3425         Auszahlungen von Vorschüssen und Anzahlungen                                                                                  0,00         6.200,00            0,00
+
+343          Auszahlungen aus Kapitaltransfers                                                                                         1.000,00         2.000,00        5.842,00
+3431         Kapitaltransferzahlungen an Träger des öffentlichen Rechts                                                                1.000,00         2.000,00            0,00
+3432         Kapitaltransferzahlungen an Beteiligungen                                                                                     0,00             0,00            0,00
+3433         Kapitaltransferzahlungen an Unternehmen (Finanzunternehmen)                                                                   0,00             0,00            0,00
+3434         Kapitaltransferzahlungen an Haushalte und Organisationen ohne Erwerbscharakter                                                0,00             0,00        5.842,00
+3435         Kapitaltransferzahlungen an das Ausland                                                                                       0,00             0,00            0,00
+
+34           Summe Auszahlungen investive Gebarung                                                                                 1.620.100,00       572.400,00      410.737,38
+
+SA2          Saldo (2) Geldfluss aus der investiven Gebarung (33 – 34)                                                              -829.100,00      -173.900,00      303.987,47
+
+SA3          Saldo (3) Nettofinanzierungssaldo (Saldo 1 + Saldo 2)                                                                  -592.600,00       315.800,00      810.570,62
+
+351          Einzahlungen aus der Aufnahme von Finanzschulden                                                                        380.200,00        55.400,00       32.495,98
+3511         Einzahlungen aus empfangenen Darlehen von öffentlichen Körperschaften und Rechtsträgern                                       0,00             0,00            0,00
+3512         Einzahlungen aus empfangenen Darlehen von Beteiligungen                                                                       0,00             0,00            0,00
+3513         Einzahlungen aus empfangenen Darlehen von Unternehmen und privaten Haushalten                                                 0,00             0,00            0,00
+3514         Einzahlungen aus Finanzschulden (Finanzunternehmen)                                                                     380.200,00        55.400,00       32.495,98
+3515         Einzahlungen aus Aufnahmen von Leasingverbindlichkeiten                                                                       0,00             0,00            0,00
+
+353          Einzahlungen infolge eines Kapitaltausches bei derivativen Finanzinstrumenten mit Grundgeschäft                               0,00             0,00            0,00
+3530         Einzahlungen infolge eines Kapitaltausches bei derivativen Finanzinstrumenten mit Grundgeschäft                               0,00             0,00            0,00
+
+355          Einzahlungen aus dem Abgang von Finanzinstrumenten                                                                            0,00        75.800,00            0,00
+3550         Einzahlungen aus dem Abgang von Finanzinstrumenten                                                                            0,00        75.800,00            0,00
+
+35           Summe Einzahlungen aus der Finanzierungstätigkeit                                                                       380.200,00       131.200,00       32.495,98
+
+
+
+
+Erstellt am 11.01.2024 08:39:11 von Walter Fischer                                                Seite 58
+
+Voranschlag 2024                                                                    Finanzierungshaushalt Gesamt 1. und 2. Ebene (Anlage 1b) - bereinigt um interne Vergütungen
+Marktgemeinde Aigen-Schlägl
+
+
+
+MVAG         Mittelverwendungs- und aufbringungsgruppen (1. und 2. Ebene)                                                             VA 2024          VA 2023         RA 2022
+361          Auszahlungen aus der Tilgung von Finanzschulden                                                                        544.900,00       556.100,00      560.157,47
+3611         Auszahlungen aus empfangenen Darlehen von öffentlichen Körperschaften und Rechtsträgern                                 22.700,00        22.200,00       21.805,10
+3612         Auszahlungen aus empfangenen Darlehen von Beteiligungen                                                                      0,00             0,00            0,00
+3613         Auszahlungen aus empfangenen Darlehen von Unternehmen und privaten Haushalten                                                0,00             0,00            0,00
+3614         Auszahlungen aus Finanzschulden                                                                                        522.200,00       533.900,00      538.352,37
+3615         Auszahlungen aus Rückzahlungen von Leasingverbindlichkeiten                                                                  0,00             0,00            0,00
+
+363          Auszahlungen infolge eines Kapitaltausches bei derivativen Finanzinstrumenten mit Grundgeschäft                              0,00             0,00            0,00
+3630         Auszahlungen infolge eines Kapitaltausches bei derivativen Finanzinstrumenten mit Grundgeschäft                              0,00             0,00            0,00
+
+365          Auszahlungen für den Erwerb von Finanzinstrumenten                                                                           0,00             0,00       45.453,64
+3650         Auszahlungen für den Erwerb von Finanzinstrumenten                                                                           0,00             0,00       45.453,64
+
+36           Summe Auszahlungen aus der Finanzierungstätigkeit                                                                      544.900,00       556.100,00      605.611,11
+
+SA4          Saldo (4) Geldfluss aus der Finanzierungstätigkeit (35 – 36)                                                          -164.700,00      -424.900,00      -573.115,13
+
+SA5          Saldo (5) Geldfluss aus der voranschlagswirksamen Gebarung (Saldo 3 + Saldo 4)                                        -757.300,00      -109.100,00      237.455,49
+
+
+
+
+Erstellt am 11.01.2024 08:39:11 von Walter Fischer                                               Seite 59
+
+Ergebnishaushalt Gesamt 1. und 2. Ebene (Anlage 1a)
+                     - interne Vergütungen enthalten
+
+
+Voranschlag 2024                                                                                Ergebnishaushalt Gesamt 1. und 2. Ebene (Anlage 1a) - interne Vergütungen enthalten
+Marktgemeinde Aigen-Schlägl
+
+
+
+MVAG         Mittelverwendungs- und aufbringungsgruppen (1. und 2. Ebene)                                                                         VA 2024        VA 2023        RA 2022
+211          Erträge aus der operativen Verwaltungstätigkeit                                                                                  8.056.500,00   7.708.100,00   7.808.622,62
+2111         Erträge aus eigenen Abgaben                                                                                                      1.517.100,00   1.537.500,00   1.569.782,30
+2112         Erträge aus Ertragsanteilen                                                                                                      3.512.000,00   3.415.800,00   3.539.053,04
+2113         Erträge aus Gebühren                                                                                                             1.508.400,00   1.177.000,00   1.158.447,65
+2114         Erträge aus Leistungen                                                                                                           1.251.300,00   1.203.500,00   1.128.516,47
+2115         Erträge aus Besitz und wirtschaftlicher Tätigkeit                                                                                   56.300,00      51.200,00      49.472,19
+2116         Erträge aus Veräußerung und sonstige Erträge                                                                                       186.700,00     308.000,00     243.468,86
+2117         Nicht finanzierungswirksame operative Erträge                                                                                       24.700,00      15.100,00     119.882,11
+
+212          Erträge aus Transfers                                                                                                            1.924.000,00   1.815.600,00   1.646.660,06
+2121         Transferertrag von Trägern des öffentlichen Rechts                                                                               1.194.000,00   1.096.300,00     919.307,86
+2122         Transferertrag von Beteiligungen                                                                                                         0,00           0,00           0,00
+2123         Transferertrag von Unternehmen (mit Finanzunternehmen)                                                                                   0,00           0,00           0,00
+2124         Transferertrag von Haushalten und Organisationen ohne Erwerbscharakter                                                              24.400,00      13.700,00      10.697,33
+2125         Transferertrag vom Ausland                                                                                                               0,00           0,00           0,00
+2126         Investitions- und Tilgungszuschüsse zwischen Unternehmungen und Betrieben der Gebietskörperschaft und der Gebietskörperschaft            0,00           0,00           0,00
+2127         Nicht finanzierungswirksamer Transferertrag                                                                                        705.600,00     705.600,00     716.654,87
+
+213          Finanzerträge                                                                                                                      81.300,00      90.500,00      63.677,90
+2131         Erträge aus Zinsen                                                                                                                    100,00         300,00          38,57
+2132         Erträge aus Zinsen aus derivativen Finanzinstrumenten mit und ohne Grundgeschäft                                                        0,00           0,00           0,00
+2133         Erträge aus Gewinnentnahmen von marktbestimmten Betrieben                                                                               0,00           0,00           0,00
+2134         Sonstige Finanzerträge                                                                                                                  0,00           0,00           0,00
+2135         Erträge aus Dividenden/Gewinnausschüttungen                                                                                        81.200,00      90.200,00      63.639,33
+2136         Sonstige nicht finanzierungswirksame Finanzerträge                                                                                      0,00           0,00           0,00
+
+21           Summe Erträge                                                                                                                   10.061.800,00   9.614.200,00   9.518.960,58
+
+221          Personalaufwand                                                                                                                  2.414.200,00   2.186.300,00   2.031.136,92
+2211         Personalaufwand (Bezüge, Nebengebühren, Mehrleistungen)                                                                          1.874.800,00   1.683.500,00   1.569.945,17
+2212         Gesetzlicher und freiwilliger Sozialaufwand                                                                                        509.800,00     430.700,00     402.672,16
+2213         Sonstiger Personalaufwand                                                                                                            2.800,00       2.900,00       2.619,91
+2214         Nicht finanzierungswirksamer Personalaufwand                                                                                        26.800,00      69.200,00      55.899,68
+
+222          Sachaufwand                                                                                                                      4.068.100,00   3.904.200,00   4.285.632,19
+2221         Gebrauchs- und Verbrauchsgüter, Handelswaren                                                                                       196.100,00     174.000,00     119.590,04
+2222         Verwaltungs- und Betriebsaufwand                                                                                                   462.300,00     435.500,00     356.111,19
+2223         Leasing- und Mietaufwand                                                                                                            55.500,00      53.300,00      39.064,72
+2224         Instandhaltung                                                                                                                     179.700,00     151.300,00     534.476,92
+2225         Sonstiger Sachaufwand                                                                                                            2.084.200,00   1.999.200,00   2.111.732,53
+2226         Nicht finanzierungswirksamer Sachaufwand                                                                                         1.090.300,00   1.090.900,00   1.124.656,79
+
+
+
+Erstellt am 11.01.2024 08:39:14 von Walter Fischer                                                 Seite 62
+
+Voranschlag 2024                                                                                Ergebnishaushalt Gesamt 1. und 2. Ebene (Anlage 1a) - interne Vergütungen enthalten
+Marktgemeinde Aigen-Schlägl
+
+
+
+MVAG         Mittelverwendungs- und aufbringungsgruppen (1. und 2. Ebene)                                                                         VA 2024        VA 2023        RA 2022
+223          Transferaufwand                                                                                                                  3.425.400,00   3.144.900,00   3.009.471,92
+2231         Transferaufwand an Träger des öffentlichen Rechts                                                                                3.191.400,00   2.877.500,00   2.734.939,09
+2232         Transferaufwand an Beteiligungen                                                                                                         0,00           0,00           0,00
+2233         Transferaufwand an Unternehmen (mit Finanzunternehmen)                                                                              24.000,00      48.800,00      43.290,06
+2234         Transferaufwand an Haushalte und Organisationen ohne Erwerbscharakter                                                              210.000,00     218.600,00     231.242,77
+2235         Transferaufwand an das Ausland                                                                                                           0,00           0,00           0,00
+2236         Investitions- und Tilgungszuschüsse zwischen Unternehmungen und Betrieben der Gebietskörperschaft und der Gebietskörperschaft            0,00           0,00           0,00
+2237         Nicht finanzierungswirksamer Transferaufwand                                                                                             0,00           0,00           0,00
+
+224          Finanzaufwand                                                                                                                     305.400,00     254.700,00      80.062,32
+2241         Aufwendungen für Zinsen                                                                                                           299.400,00     248.700,00      56.496,65
+2242         Zinsen und sonstige Aufwendungen aus derivativen Finanzinstrumenten mit und ohne Grundgeschäft                                          0,00           0,00           0,00
+2243         Gewinnentnahmen von Unternehmungen und marktbestimmten Betrieben der Gebietskörperschaft (innerhalb der Gebietskörperschaft)            0,00           0,00           0,00
+2244         Sonstiger Finanzaufwand                                                                                                             6.000,00       6.000,00       5.789,72
+2245         Nicht finanzierungswirksamer Finanzaufwand                                                                                              0,00           0,00      17.775,95
+
+22           Summe Aufwendungen                                                                                                              10.213.100,00   9.490.100,00   9.406.303,35
+
+SA0          Saldo (0) Nettoergebnis (21 - 22)                                                                                                 -151.300,00    124.100,00     112.657,23
+
+230          Entnahmen von Haushaltsrücklagen                                                                                                  227.400,00      27.700,00      89.131,74
+2301         Entnahmen von Haushaltsrücklagen                                                                                                  227.400,00      27.700,00      89.131,74
+
+240          Zuweisungen an Haushaltsrücklagen                                                                                                 136.400,00      33.200,00     157.743,41
+2401         Zuweisungen an Haushaltsrücklagen                                                                                                 136.400,00      33.200,00     157.743,41
+
+SA01         Saldo (01) Haushaltsrücklagen (230 - 240)                                                                                          91.000,00       -5.500,00     -68.611,67
+
+SA00         Saldo (00) Nettoergebnis nach Haushaltsrücklagen (Saldo 0 + Saldo 01)                                                              -60.300,00    118.600,00      44.045,56
+
+
+
+
+Erstellt am 11.01.2024 08:39:14 von Walter Fischer                                                 Seite 63
+
+Finanzierungshaushalt Gesamt 1. und 2. Ebene (Anlage 1b)
+                          - interne Vergütungen enthalten
+
+
+Voranschlag 2024                                                                          Finanzierungshaushalt Gesamt 1. und 2. Ebene (Anlage 1b) - interne Vergütungen enthalten
+Marktgemeinde Aigen-Schlägl
+
+
+
+MVAG         Mittelverwendungs- und aufbringungsgruppen (1. und 2. Ebene)                                                                        VA 2024        VA 2023       RA 2022
+311          Einzahlungen aus operativer Verwaltungstätigkeit                                                                                8.031.800,00   7.617.200,00   7.703.257,70
+3111         Einzahlungen aus eigenen Abgaben                                                                                                1.517.100,00   1.537.500,00   1.618.226,29
+3112         Einzahlungen aus Ertragsanteilen                                                                                                3.512.000,00   3.415.800,00   3.539.053,04
+3113         Einzahlungen aus Gebühren                                                                                                       1.508.400,00   1.177.000,00   1.150.186,59
+3114         Einzahlungen aus Leistungen                                                                                                     1.251.300,00   1.203.500,00   1.143.482,42
+3115         Einzahlungen aus Besitz und wirtschaftlicher Tätigkeit                                                                             56.300,00      51.200,00      49.402,05
+3116         Einzahlungen aus Veräußerung von geringwertigen Wirtschaftsgütern (GWG) und sonstige Einzahlungen                                 186.700,00     232.200,00     202.907,31
+
+312          Einzahlungen aus Transfers                                                                                                      1.218.400,00   1.110.000,00    930.005,19
+3121         Transferzahlungen von Trägern des öffentlichen Rechts                                                                           1.194.000,00   1.096.300,00    919.307,86
+3122         Transferzahlungen von Beteiligungen                                                                                                     0,00           0,00          0,00
+3123         Transferzahlungen von Unternehmen (inkl. Finanzunternehmen)                                                                             0,00           0,00          0,00
+3124         Transferzahlungen von Haushalten und Organisationen ohne Erwerbscharakter                                                          24.400,00      13.700,00     10.697,33
+3125         Transferzahlungen vom Ausland                                                                                                           0,00           0,00          0,00
+3126         Investitions- und Tilgungszuschüsse zwischen Unternehmungen und Betrieben der Gebietskörperschaft und der Gebietskörperschaft           0,00           0,00          0,00
+
+313          Einzahlungen aus Finanzerträgen                                                                                                   81.300,00      90.500,00      63.677,90
+3131         Einzahlungen aus Zinserträgen                                                                                                        100,00         300,00          38,57
+3132         Einzahlungen aus Zinsen aus derivativen Finanzinstrumenten mit und ohne Grundgeschäft                                                  0,00           0,00           0,00
+3133         Einzahlungen aus Gewinnentnahmen von marktbestimmten Betrieben                                                                         0,00           0,00           0,00
+3134         Sonstige Einzahlungen aus Finanzerträgen                                                                                               0,00           0,00           0,00
+3135         Einzahlungen aus Dividenden/Gewinnausschüttungen                                                                                  81.200,00      90.200,00      63.639,33
+
+31           Summe Einzahlungen operative Gebarung                                                                                           9.331.500,00   8.817.700,00   8.696.940,79
+
+321          Auszahlungen aus Personalaufwand                                                                                                2.387.400,00   2.117.100,00   1.975.028,32
+3211         Auszahlungen für Personalaufwand (Bezüge, Nebengebühren, und Mehrleistungsvergütungen)                                          1.874.800,00   1.683.500,00   1.569.945,17
+3212         Auszahlungen für gesetzliche und freiwillige Sozialaufwendungen                                                                   509.800,00     430.700,00     402.463,24
+3213         Auszahlungen aus sonstigem Personalaufwand                                                                                          2.800,00       2.900,00       2.619,91
+
+322          Auszahlungen aus Sachaufwand                                                                                                    2.977.800,00   2.813.300,00   3.149.413,03
+3221         Auszahlungen für Gebrauchs- und Verbrauchsgüter, Handelswaren                                                                     196.100,00     174.000,00     119.590,04
+3222         Auszahlungen für Verwaltungs- und Betriebsaufwand                                                                                 462.300,00     435.500,00     356.289,16
+3223         Auszahlungen für Leasing- und Mietaufwand                                                                                          55.500,00      53.300,00      39.064,72
+3224         Auszahlungen für Instandhaltung                                                                                                   179.700,00     151.300,00     534.476,92
+3225         Sonstige Auszahlungen aus Sachaufwand                                                                                           2.084.200,00   1.999.200,00   2.099.992,19
+3226         Auszahlungen aus der Inanspruchnahme von Haftungen                                                                                      0,00           0,00           0,00
+
+323          Auszahlungen aus Transfers                                                                                                      3.424.400,00   3.142.900,00   3.003.629,92
+3231         Transferzahlungen an Träger des öffentlichen Rechts                                                                             3.190.400,00   2.875.500,00   2.734.939,09
+3232         Transferzahlungen an Beteiligungen                                                                                                      0,00           0,00           0,00
+
+
+
+Erstellt am 11.01.2024 08:39:17 von Walter Fischer                                                   Seite 66
+
+Voranschlag 2024                                                                          Finanzierungshaushalt Gesamt 1. und 2. Ebene (Anlage 1b) - interne Vergütungen enthalten
+Marktgemeinde Aigen-Schlägl
+
+
+
+MVAG         Mittelverwendungs- und aufbringungsgruppen (1. und 2. Ebene)                                                                        VA 2024        VA 2023       RA 2022
+3233         Transferzahlungen an Unternehmen (inkl. Finanzunternehmen)                                                                        24.000,00      48.800,00      43.290,06
+3234         Transferzahlungen an Haushalte und Organisationen ohne Erwerbscharakter                                                          210.000,00     218.600,00     225.400,77
+3235         Transferzahlungen an das Ausland                                                                                                       0,00           0,00           0,00
+3236         Investitions- und Tilgungszuschüsse zwischen Unternehmungen und Betrieben der Gebietskörperschaft und der Gebietskörperschaft          0,00           0,00           0,00
+
+324          Auszahlungen aus Finanzaufwand                                                                                                   305.400,00     254.700,00      62.286,37
+3241         Auszahlungen für Zinsen                                                                                                          299.400,00     248.700,00      56.496,65
+3242         Auszahlungen für Zinsen aus derivativen Finanzinstrumenten mit und ohne Grundgeschäft                                                  0,00           0,00           0,00
+3243         Auszahlungen aus Gewinnentnahmen von marktbestimmten Betrieben                                                                         0,00           0,00           0,00
+3244         Sonstige Auszahlungen aus Finanzaufwendungen                                                                                       6.000,00       6.000,00       5.789,72
+
+32           Summe Auszahlungen operative Gebarung                                                                                           9.095.000,00   8.328.000,00   8.190.357,64
+
+SA1          Saldo (1) Geldfluss aus der operativen Gebarung (31 – 32)                                                                        236.500,00     489.700,00     506.583,15
+
+331          Einzahlungen aus der Investitionstätigkeit                                                                                              0,00           0,00     39.901,00
+3311         Einzahlungen aus der Veräußerung von immateriellem Vermögen                                                                             0,00           0,00          0,00
+3312         Einzahlungen aus der Veräußerung von Grundstücken und Grundstückeinrichtungen                                                           0,00           0,00     39.901,00
+3313         Einzahlungen aus der Veräußerung von Gebäuden und Bauten                                                                                0,00           0,00          0,00
+3314         Einzahlungen aus der Veräußerung von technischen Anlagen, Fahrzeugen und Maschinen                                                      0,00           0,00          0,00
+3315         Einzahlungen aus der Veräußerung von Amts-, Betriebs- und Geschäftsausstattung                                                          0,00           0,00          0,00
+3316         Einzahlungen aus der Veräußerung von Kulturgütern                                                                                       0,00           0,00          0,00
+3317         Einzahlungen aus der Veräußerung von Beteiligungen                                                                                      0,00           0,00          0,00
+3318         Einzahlungen aus der Veräußerung von kofinanzierten Schutzbauten                                                                        0,00           0,00          0,00
+
+332          Einzahlungen aus der Rückzahlung von Darlehen sowie gewährten Vorschüssen                                                           1.600,00       1.600,00           0,00
+3321         Einzahlungen aus Darlehen an Träger des öffentlichen Rechts                                                                             0,00           0,00           0,00
+3322         Einzahlungen aus Darlehen an Beteiligungen                                                                                              0,00           0,00           0,00
+3323         Einzahlungen aus Darlehen an Unternehmen und Haushalte                                                                                  0,00           0,00           0,00
+3325         Einzahlungen aus Vorschüssen und Anzahlungen                                                                                        1.600,00       1.600,00           0,00
+
+333          Einzahlungen aus Kapitaltransfers                                                                                                789.400,00     396.900,00     674.823,85
+3331         Kapitaltransferzahlungen von Trägern des öffentlichen Rechts                                                                     640.800,00     307.000,00     378.783,33
+3332         Kapitaltransferzahlungen von Beteiligungen                                                                                             0,00           0,00           0,00
+3333         Kapitaltransferzahlungen von Unternehmen                                                                                               0,00           0,00           0,00
+3334         Kapitaltransferzahlungen von Haushalten und Organisationen ohne Erwerbscharakter                                                 148.600,00      89.900,00     296.040,52
+3335         Kapitaltransferzahlungen vom Ausland                                                                                                   0,00           0,00           0,00
+
+33           Summe Einzahlungen investive Gebarung                                                                                            791.000,00     398.500,00     714.724,85
+
+341          Auszahlungen aus der Investitionstätigkeit                                                                                      1.619.100,00    564.200,00     404.895,38
+3411         Auszahlungen für den Erwerb von immateriellem Vermögen                                                                                  0,00          0,00           0,00
+
+
+
+Erstellt am 11.01.2024 08:39:17 von Walter Fischer                                                   Seite 67
+
+Voranschlag 2024                                                                         Finanzierungshaushalt Gesamt 1. und 2. Ebene (Anlage 1b) - interne Vergütungen enthalten
+Marktgemeinde Aigen-Schlägl
+
+
+
+MVAG         Mittelverwendungs- und aufbringungsgruppen (1. und 2. Ebene)                                                               VA 2024          VA 2023         RA 2022
+3412         Auszahlungen für den Erwerb von Grundstücken und Grundstückseinrichtungen                                              1.084.600,00       307.200,00      281.378,99
+3413         Auszahlungen für den Erwerb von Gebäuden und Bauten                                                                      310.000,00             0,00       31.200,00
+3414         Auszahlungen für den Erwerb von technischen Anlagen, Fahrzeugen und Maschinen                                            198.600,00       192.000,00        8.962,62
+3415         Auszahlungen für den Erwerb von Amts-, Betriebs- und Geschäftsausstattung                                                 25.900,00        65.000,00       83.353,77
+3416         Auszahlungen für den Erwerb von Kulturgütern                                                                                   0,00             0,00            0,00
+3417         Auszahlungen für den Erwerb von Beteiligungen                                                                                  0,00             0,00            0,00
+3418         Auszahlungen für den Erwerb von kofinanzierten Schutzbauten                                                                    0,00             0,00            0,00
+
+342          Auszahlungen aus der Gewährung von Darlehen sowie gewährten Vorschüssen                                                        0,00         6.200,00            0,00
+3421         Auszahlungen von Darlehen an Träger des öffentlichen Rechts                                                                    0,00             0,00            0,00
+3422         Auszahlungen von Darlehen an Beteiligungen                                                                                     0,00             0,00            0,00
+3423         Auszahlungen von Darlehen an Unternehmen und Haushalte                                                                         0,00             0,00            0,00
+3425         Auszahlungen von Vorschüssen und Anzahlungen                                                                                   0,00         6.200,00            0,00
+
+343          Auszahlungen aus Kapitaltransfers                                                                                          1.000,00         2.000,00        5.842,00
+3431         Kapitaltransferzahlungen an Träger des öffentlichen Rechts                                                                 1.000,00         2.000,00            0,00
+3432         Kapitaltransferzahlungen an Beteiligungen                                                                                      0,00             0,00            0,00
+3433         Kapitaltransferzahlungen an Unternehmen (Finanzunternehmen)                                                                    0,00             0,00            0,00
+3434         Kapitaltransferzahlungen an Haushalte und Organisationen ohne Erwerbscharakter                                                 0,00             0,00        5.842,00
+3435         Kapitaltransferzahlungen an das Ausland                                                                                        0,00             0,00            0,00
+
+34           Summe Auszahlungen investive Gebarung                                                                                  1.620.100,00       572.400,00      410.737,38
+
+SA2          Saldo (2) Geldfluss aus der investiven Gebarung (33 – 34)                                                               -829.100,00      -173.900,00      303.987,47
+
+SA3          Saldo (3) Nettofinanzierungssaldo (Saldo 1 + Saldo 2)                                                                   -592.600,00       315.800,00      810.570,62
+
+351          Einzahlungen aus der Aufnahme von Finanzschulden                                                                         380.200,00        55.400,00       32.495,98
+3511         Einzahlungen aus empfangenen Darlehen von öffentlichen Körperschaften und Rechtsträgern                                        0,00             0,00            0,00
+3512         Einzahlungen aus empfangenen Darlehen von Beteiligungen                                                                        0,00             0,00            0,00
+3513         Einzahlungen aus empfangenen Darlehen von Unternehmen und privaten Haushalten                                                  0,00             0,00            0,00
+3514         Einzahlungen aus Finanzschulden (Finanzunternehmen)                                                                      380.200,00        55.400,00       32.495,98
+3515         Einzahlungen aus Aufnahmen von Leasingverbindlichkeiten                                                                        0,00             0,00            0,00
+
+353          Einzahlungen infolge eines Kapitaltausches bei derivativen Finanzinstrumenten mit Grundgeschäft                                0,00             0,00            0,00
+3530         Einzahlungen infolge eines Kapitaltausches bei derivativen Finanzinstrumenten mit Grundgeschäft                                0,00             0,00            0,00
+
+355          Einzahlungen aus dem Abgang von Finanzinstrumenten                                                                             0,00        75.800,00            0,00
+3550         Einzahlungen aus dem Abgang von Finanzinstrumenten                                                                             0,00        75.800,00            0,00
+
+35           Summe Einzahlungen aus der Finanzierungstätigkeit                                                                        380.200,00       131.200,00       32.495,98
+
+
+
+
+Erstellt am 11.01.2024 08:39:17 von Walter Fischer                                                Seite 68
+
+Voranschlag 2024                                                                        Finanzierungshaushalt Gesamt 1. und 2. Ebene (Anlage 1b) - interne Vergütungen enthalten
+Marktgemeinde Aigen-Schlägl
+
+
+
+MVAG         Mittelverwendungs- und aufbringungsgruppen (1. und 2. Ebene)                                                              VA 2024          VA 2023         RA 2022
+361          Auszahlungen aus der Tilgung von Finanzschulden                                                                         544.900,00       556.100,00      560.157,47
+3611         Auszahlungen aus empfangenen Darlehen von öffentlichen Körperschaften und Rechtsträgern                                  22.700,00        22.200,00       21.805,10
+3612         Auszahlungen aus empfangenen Darlehen von Beteiligungen                                                                       0,00             0,00            0,00
+3613         Auszahlungen aus empfangenen Darlehen von Unternehmen und privaten Haushalten                                                 0,00             0,00            0,00
+3614         Auszahlungen aus Finanzschulden                                                                                         522.200,00       533.900,00      538.352,37
+3615         Auszahlungen aus Rückzahlungen von Leasingverbindlichkeiten                                                                   0,00             0,00            0,00
+
+363          Auszahlungen infolge eines Kapitaltausches bei derivativen Finanzinstrumenten mit Grundgeschäft                               0,00             0,00            0,00
+3630         Auszahlungen infolge eines Kapitaltausches bei derivativen Finanzinstrumenten mit Grundgeschäft                               0,00             0,00            0,00
+
+365          Auszahlungen für den Erwerb von Finanzinstrumenten                                                                            0,00             0,00       45.453,64
+3650         Auszahlungen für den Erwerb von Finanzinstrumenten                                                                            0,00             0,00       45.453,64
+
+36           Summe Auszahlungen aus der Finanzierungstätigkeit                                                                       544.900,00       556.100,00      605.611,11
+
+SA4          Saldo (4) Geldfluss aus der Finanzierungstätigkeit (35 – 36)                                                           -164.700,00      -424.900,00      -573.115,13
+
+SA5          Saldo (5) Geldfluss aus der voranschlagswirksamen Gebarung (Saldo 3 + Saldo 4)                                         -757.300,00      -109.100,00      237.455,49
+
+
+
+
+Erstellt am 11.01.2024 08:39:17 von Walter Fischer                                               Seite 69
+
